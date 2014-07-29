@@ -14,7 +14,4 @@ echo "parando el servicio apache"
 echo "Inicializando servicio de apache" 
 /etc/init.d/apache2  start
 
-#intslando  entorno de desarrollo geany
-echo "instalando paquete  IDE de desarrollo geany"
-aptitude install geany
 #fin del script
