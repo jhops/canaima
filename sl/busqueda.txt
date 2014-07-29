@@ -1,0 +1,5 @@
+p   dpkg-dev                        - Herramientas de desarrollo de paquetes Deb
+p   dpkg-dev-el                     - Emacs helpers specific to Debian developme
+p   libdpkg-dev                     - Debian package management static library  
+p   libghc-dpkg-dev                 - Haskell bindings to libdpkg               
+v   libghc-dpkg-dev-0.0.3-4360e     -                                           
